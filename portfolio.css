@@ -1,0 +1,32 @@
+body {
+	font-family:'Montserrat', sans-serif;
+	background: linear-gradient(white, blue);
+}
+
+.texto-principal {
+    margin: 20px;
+    padding: 15px;
+	font-size: 16px;
+	text-align: center;
+	font-weight: bold;
+}
+
+/*parte de contatos do site */
+
+.contatos {
+
+}
+
+.conteudo-contatos {
+	}
+
+.texto-contato {
+  margin: 10px 0 10px 0;
+  text-align: center;
+}
+
+li:hover {
+	font-size: 2em;
+	transition: 1s;
+	cursor: pointer;
+}
